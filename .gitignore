@@ -1,5 +1,6 @@
 .venv/
 data/raw/
+data/processed/
 data/db/
 .env
 .ipynb_checkpoints/
